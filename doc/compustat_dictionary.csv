@@ -1,0 +1,646 @@
+Col_name,Description
+ACCHGQ,Accounting Changes - Cumulative Effect
+ACCHGY,Accounting Changes - Cumulative Effect
+ACCTCHGQ,Adoption of Accounting Changes
+ACOMINCQ,Accumulated Other Comprehensive Income (Loss)
+ACOQ,Current Assets - Other - Total
+ACTQ,Current Assets - Total
+add1,Address 1
+add2,Address 2
+add3,Address 3
+add4,Address 4
+addzip,Zipcode 
+ADJEX,Cumulative Adjustment Factor by Ex-Date
+ADRRQ,ADR Ratio
+AFUDCCY,Allowance for Funds Used During Construction (Cash Flow)
+AFUDCIY,Allowance for Funds Used During Construction (Investing) (Cash Flow)
+AJEXQ,Adjustment Factor (Company) - Cumulative by Ex-Date
+AJPQ,Adjustment Factor (Company) - Cumulative byPay-Date
+ALTOQ,Other Long-term Assets
+AMCY,Amortization (Cash Flow)
+ANCQ,Non-Current Assets - Total
+ANOQ,Assets Netting & Other Adjustments
+AOCIDERGLQ,Accum Other Comp Inc - Derivatives Unrealized Gain/Loss
+AOCIOTHERQ,Accum Other Comp Inc - Other Adjustments
+AOCIPENQ,Accum Other Comp Inc - Min Pension Liab Adj
+AOCISECGLQ,Accum Other Comp Inc - Unreal G/L Ret Int in Sec Assets
+AOL2Q,Assets Level2 (Observable)
+AOLOCHY,Assets and Liabilities - Other (Net Change)
+AOQ,Assets - Other - Total
+APALCHY,Accounts Payable and Accrued Liabilities - Increase (Decrease)
+apdedateq,Actual Period End date
+APQ,Account Payable/Creditors - Trade
+AQAQ,Acquisition/Merger After-Tax
+AQAY,Acquisition/Merger After-Tax
+AQCY,Acquisitions
+AQDQ,Acquisition/Merger Diluted EPS Effect
+AQDY,Acquisition/Merger Diluted EPS Effect
+AQEPSQ,Acquisition/Merger Basic EPS Effect
+AQEPSY,Acquisition/Merger Basic EPS Effect
+AQPL1Q,Assets Level1 (Quoted Prices)
+AQPQ,Acquisition/Merger Pretax
+AQPY,Acquisition/Merger Pretax
+ARCEDQ,As Reported Core - Diluted EPS Effect
+ARCEDY,As Reported Core - Diluted EPS Effect
+ARCEEPSQ,As Reported Core - Basic EPS Effect
+ARCEEPSY,As Reported Core - Basic EPS Effect
+ARCEQ,As Reported Core - After-tax
+ARCEY,As Reported Core - After-tax
+ATQ,Assets - Total
+AUL3Q,Assets Level3 (Unobservable)
+BSPRQ,Balance Sheet Presentation
+busdesc,Business description
+CAPR1Q,Risk-Adjusted Capital Ratio - Tier 1
+CAPR2Q,Risk-Adjusted Capital Ratio - Tier 2
+CAPR3Q,Risk-Adjusted Capital Ratio - Combined
+CAPSQ,Capital Surplus/Share Premium Reserve
+CAPXY,Capital Expenditures
+CDVCY,Cash Dividends on Common Stock (Cash Flow)
+CEQQ,Common/Ordinary Equity - Total
+CHECHY,Cash and Cash Equivalents - Increase (Decrease)
+CHEQ,Cash and Short-Term Investments
+CHQ,Cash
+CIBEGNIQ,Comp Inc - Beginning Net Income
+CIBEGNIY,Comp Inc - Beginning Net Income
+CICURRQ,Comp Inc - Currency Trans Adj
+CICURRY,Comp Inc - Currency Trans Adj
+CIDERGLQ,Comp Inc - Derivative Gains/Losses
+CIDERGLY,Comp Inc - Derivative Gains/Losses
+CIK,CIK Number
+CIMIIQ,Comprehensive Income - Noncontrolling Interest
+CIMIIY,Comprehensive Income - Noncontrolling Interest
+CIOTHERQ,Comp Inc - Other Adj
+CIOTHERY,Comp Inc - Other Adj
+CIPENQ,Comp Inc - Minimum Pension Adj
+CIPENY,Comp Inc - Minimum Pension Adj
+CIQ,Comprehensive Income - Total
+CISECGLQ,Comp Inc - Securities Gains/Losses
+CISECGLY,Comp Inc - Securities Gains/Losses
+CITOTALQ,Comprehensive Income - Parent
+CITOTALY,Comprehensive Income - Parent
+city,city
+CIY,Comprehensive Income - Total
+COGSQ,Cost of Goods Sold
+COGSY,Cost of Goods Sold
+COMPSTQ,Comparability Status
+conm,Company Name
+conml,Company legal name
+consol,Level of Consolidation - Company Interim Descriptor
+COSTAT,Active/Inactive Status Marker
+county,county
+CSH12Q,Common Shares Used to Calculate Earnings Per Share - 12 Months Moving
+CSHFDQ,Com Shares for Diluted EPS
+CSHFDY,Com Shares for Diluted EPS
+CSHIQ,Common Shares Issued
+CSHOPQ,Total Shares Repurchased - Quarter
+CSHOQ,Common Shares Outstanding
+CSHPRQ,Common Shares Used to Calculate Earnings Per Share - Basic
+CSHPRY,Common Shares Used to Calculate Earnings Per Share -Basic
+CSHTRQ,Common Shares Traded - Quarter
+CSTKCVQ,Carrying Value
+CSTKEQ,Common Stock Equivalents - Dollar Savings
+CSTKEY,Common Stock Equivalents - Dollar Savings
+CSTKQ,Common/Ordinary Stock (Capital)
+CURCDQ,ISO Currency Code
+CURNCDQ,Native Currency Code
+CURRTRQ,Currency Translation Rate
+CURUSCNQ,US Canadian Translation Rate - Interim
+cusip,CUSIP
+DATACQTR,Calendar Data Year and Quarter
+datadate,Data Date
+datafmt,Data Format
+DATAFQTR,Fiscal Data Year and Quarter
+DCOMQ,Deferred Compensation
+DD1Q,Long-Term Debt Due in One Year
+DEPCY,Depreciation and Depletion (Cash Flow)
+DILADQ,Dilution Adjustment
+DILADY,Dilution Adjustment
+DILAVQ,Dilution Available - Excluding Extraordinary Items
+DILAVY,Dilution Available - Excluding Extraordinary Items
+DLCCHY,Changes in Current Debt
+DLCQ,Debt in Current Liabilities
+dldte,Research company deletion date
+dlrsn,Research company reason for deletion
+DLTISY,Long-Term Debt - Issuance
+DLTRY,Long-Term Debt - Reduction
+DLTTQ,Long-Term Debt - Total
+DOQ,Discontinued Operations
+DOY,Discontinued Operations
+DPACREQ,Accumulated Depreciation of RE Property
+DPACTQ,"Depreciation, Depletion and Amortization (Accumulated)"
+DPCY,Depreciation and Amortization - Statement of Cash Flows
+DPQ,Depreciation and Amortization - Total
+DPRETQ,Depr/Amort of Property
+DPRETY,Depr/Amort of Property
+DPY,Depreciation and Amortization - Total
+DRCQ,Deferred Revenue - Current
+DRLTQ,Deferred Revenue - Long-term
+DTEAQ,Extinguishment of Debt After-tax
+DTEAY,Extinguishment of Debt After-tax
+DTEDQ,Extinguishment of Debt Diluted EPS Effect
+DTEDY,Extinguishment of Debt Diluted EPS Effect
+DTEEPSQ,Extinguishment of Debt Basic EPS Effect
+DTEEPSY,Extinguishment of Debt Basic EPS Effect
+DTEPQ,Extinguishment of Debt Pretax
+DTEPY,Extinguishment of Debt Pretax
+DVPQ,Dividends - Preferred/Preference
+DVPSPQ,Dividends per Share - Pay Date - Quarter
+DVPSXQ,Div per Share - Exdate - Quarter
+DVPY,Dividends - Preferred/Preference
+DVY,Cash Dividends
+ein,Employer identification number
+EPSF12,Earnings Per Share (Diluted) - Excluding Extraordinary Items - 12 Months Moving
+EPSFIQ,Earnings Per Share (Diluted) - Including Extraordinary Items
+EPSFIY,Earnings Per Share (Diluted) - Including Extraordinary Items
+EPSFXQ,Earnings Per Share (Diluted) - Excluding Extraordinary items
+EPSFXY,Earnings Per Share (Diluted) - Excluding Extraordinary items
+EPSPIQ,Earnings Per Share (Basic) - Including Extraordinary Items
+EPSPIY,Earnings Per Share (Basic) - Including Extraordinary Items
+EPSPXQ,Earnings Per Share (Basic) - Excluding Extraordinary Items
+EPSPXY,Earnings Per Share (Basic) - Excluding Extraordinary Items
+EPSX12,Earnings Per Share (Basic) - Excluding Extraordinary Items - 12 Months Moving
+ESOPCTQ,Common ESOP Obligation - Total
+ESOPNRQ,Preferred ESOP Obligation - Non-Redeemable
+ESOPRQ,Preferred ESOP Obligation - Redeemable
+ESOPTQ,Preferred ESOP Obligation - Total
+ESUBCY,Equity in Net Loss/Earnings (C/F)
+ESUBQ,Equity in Earnings (I/S) - Unconsolidated Subsidiaries
+ESUBY,Equity in Earnings (I/S)- Unconsolidated Subsidiaries
+EXCHG,Stock Exchange Code
+EXREY,Exchange Rate Effect
+fax,fax
+FCAQ,Foreign Exchange Income (Loss)
+FCAY,Foreign Exchange Income (Loss)
+fdateq,Final Date
+FFOQ,Funds From Operations (REIT)
+FFOY,Funds From Operations (REIT)
+FIAOY,Financing Activities - Other
+FIC,Current ISO Country Code - Incorporation
+FINALQ,Final Indicator Flag
+FINCFY,Financing Activities - Net Cash Flow
+FOPOXY,Funds from Operations - Other excluding Option Tax Benefit
+FOPOY,Funds from Operations - Other
+FOPTY,Funds From Operations - Total
+fqtr,Fiscal Quarter
+FSRCOY,Sources of Funds - Other
+FSRCTY,Sources of Funds - Total
+FUSEOY,Uses of Funds - Other
+FUSETY,Uses of Funds - Total
+fyearq,Fiscal Year
+fyr,Fiscal Year-end Month
+fyrc,Fiscal year end (current)
+GDWLAMQ,Amortization of Goodwill
+GDWLAMY,Amortization of Goodwill
+GDWLIA12,Impairments of Goodwill AfterTax - 12mm
+GDWLIAQ,Impairment of Goodwill After-tax
+GDWLIAY,Impairment of Goodwill After-tax
+GDWLID12,Impairments Diluted EPS - 12mm
+GDWLIDQ,Impairment of Goodwill Diluted EPS Effect
+GDWLIDY,Impairment of Goodwill Diluted EPS Effect
+GDWLIEPS12,Impairment of Goodwill Basic EPS Effect 12MM
+GDWLIEPSQ,Impairment of Goodwill Basic EPS Effect
+GDWLIEPSY,Impairment of Goodwill Basic EPS Effect
+GDWLIPQ,Impairment of Goodwill Pretax
+GDWLIPY,Impairment of Goodwill Pretax
+GDWLQ,Goodwill (net)
+ggroup,GICS groups
+gind,GICS industries
+GLAQ,Gain/Loss After-Tax
+GLAY,Gain/Loss After-Tax
+GLCEA12,Gain/Loss on Sale (Core Earnings Adjusted) After-tax 12MM
+GLCEAQ,Gain/Loss on Sale (Core Earnings Adjusted) After-tax
+GLCEAY,Gain/Loss on Sale (Core Earnings Adjusted) After-tax
+GLCED12,Gain/Loss on Sale (Core Earnings Adjusted) Diluted EPS Effect 12MM
+GLCEDQ,Gain/Loss on Sale (Core Earnings Adjusted) Diluted EPS
+GLCEDY,Gain/Loss on Sale (Core Earnings Adjusted) Diluted EPS
+GLCEEPS12,Gain/Loss on Sale (Core Earnings Adjusted) Basic EPS Effect 12MM
+GLCEEPSQ,Gain/Loss on Sale (Core Earnings Adjusted) Basic EPS Effect
+GLCEEPSY,Gain/Loss on Sale (Core Earnings Adjusted) Basic EPS Effect
+GLCEPQ,Gain/Loss on Sale (Core Earnings Adjusted) Pretax
+GLCEPY,Gain/Loss on Sale (Core Earnings Adjusted) Pretax
+GLDQ,Gain/Loss Diluted EPS Effect
+GLDY,Gain/Loss Diluted EPS Effect
+GLEPSQ,Gain/Loss Basic EPS Effect
+GLEPSY,Gain/Loss Basic EPS Effect
+GLPQ,Gain/Loss Pretax
+GLPY,Gain/Loss Pretax
+gsector,GICS sectors
+gsubind,GICS sub-industries
+gvkey,Global Company Key
+HEDGEGLQ,Gain/Loss on Ineffective Hedges
+HEDGEGLY,Gain/Loss on Ineffective Hedges
+IBADJ12,Income Before Extra Items - Adj for Common Stock Equivalents - 12MM
+IBADJQ,Income Before Extraordinary Items - Adjusted for Common Stock Equivalents
+IBADJY,Income Before Extraordinary Items - Adjusted for Common Stock Equivalents
+IBCOMQ,Income Before Extraordinary Items - Available for Common
+IBCOMY,Income Before Extraordinary Items - Available for Common
+IBCY,Income Before Extraordinary Items - Statement of Cash Flows
+IBMIIQ,Income before Extraordinary Items and Noncontrolling Interests
+IBMIIY,Income before Extraordinary Items and Noncontrolling Interests
+IBQ,Income Before Extraordinary Items
+IBY,Income Before Extraordinary Items
+ICAPTQ,Invested Capital - Total - Quarterly
+idbflag,International/Domestic/ Both indicator
+incorp,State/Province of incorporation code
+indfmt,Industry Format
+INTACCQ,Interest Accrued
+INTANOQ,Other Intangibles
+INTANQ,Intangible Assets - Total
+INTPNY,Interest Paid - Net
+INVCHY,Inventory - Decrease (Increase)
+INVFGQ,Inventory - Finished Goods
+INVOQ,Inventory - Other
+INVRMQ,Inventory - Raw Materials
+INVTQ,Inventories - Total
+INVWIPQ,Inventory - Work in Process
+ipodate,Company initial public offering date
+ITCCY,Investment Tax Credit - Net (Cash Flow)
+IVACOY,Investing Activities - Other
+IVAEQQ,Investment and Advances - Equity
+IVAOQ,Investment and Advances - Other
+IVCHY,Increase in Investments
+IVLTQ,Total Long-term Investments
+IVNCFY,Investing Activities - Net Cash Flow
+IVSTCHY,Short-Term Investments - Change
+IVSTQ,Short-Term Investments- Total
+LCOQ,Current Liabilities - Other - Total
+LCTQ,Current Liabilities - Total
+LLTQ,Long-Term Liabilities (Total)
+LNOQ,Liabilities Netting & Other Adjustments
+loc,ISOCountry code/ headquarters
+LOL2Q,Liabilities Level2 (Observable)
+LOQ,Liabilities - Other
+LOXDRQ,Liabilities - Other - Excluding Deferred Revenue
+LQPL1Q,Liabilities Level1 (Quoted Prices)
+LSEQ,Liabilities and Stockholders Equity - Total
+LTMIBQ,Liabilities - Total and Noncontrolling Interest
+LTQ,Liabilities - Total
+LUL3Q,Liabilities Level3 (Unobservable)
+MIBNQ,Noncontrolling Interests - Nonredeemable - Balance Sheet
+MIBQ,Noncontrolling Interest - Redeemable - Balance Sheet
+MIBTQ,Noncontrolling Interests - Total - Balance Sheet
+MIIQ,Noncontrolling Interest - Income Account
+MIIY,Noncontrolling Interest - Income Account
+MKVALTQ,Market Value - Total
+MSAQ,Accum Other Comp Inc - Marketable Security Adjustments
+naics,North American Industry Classification Code
+NCOQ,Net Charge-Offs
+NCOY,Net Charge-Offs
+NIITQ,Net Interest Income (Tax Equivalent)
+NIITY,Net Interest Income (Tax Equivalent)
+NIMQ,Net Interest Margin
+NIMY,Net Interest Margin
+NIQ,Net Income (Loss)
+NIY,Net Income (Loss)
+NOPIQ,Non-Operating Income (Expense) - Total
+NOPIY,Non-Operating Income (Expense) - Total
+NPATQ,Nonperforming Assets - Total
+NPQ,Notes Payable
+NRTXTDQ,Nonrecurring Income Taxes Diluted EPS Effect
+NRTXTDY,Nonrecurring Income Taxes Diluted EPS Effect
+NRTXTEPSQ,Nonrecurring Income Taxes Basic EPS Effect
+NRTXTEPSY,Nonrecurring Income Taxes Basic EPS Effect
+NRTXTQ,Nonrecurring Income Taxes - After-tax
+NRTXTY,Nonrecurring Income Taxes - After-tax
+OANCFY,Operating Activities - Net Cash Flow
+OBKQ,Order backlog
+OEPF12,Earnings Per Share - Diluted - from Operations - 12MM
+OEPS12,Earnings Per Share from Operations - 12 Months Moving
+OEPSXQ,Earnings Per Share - Diluted - from Operations
+OEPSXY,Earnings Per Share - Diluted - from Operations
+OGMQ,OIL & GAS METHOD
+OIADPQ,Operating Income After Depreciation - Quarterly
+OIADPY,Operating Income After Depreciation - Year-to-Date
+OIBDPQ,Operating Income Before Depreciation - Quarterly
+OIBDPY,Operating Income Before Depreciation
+OPEPSQ,Earnings Per Share from Operations
+OPEPSY,Earnings Per Share from Operations
+OPTDRQ,Dividend Rate - Assumption (%)
+OPTDRY,Dividend Rate - Assumption (%)
+OPTFVGRQ,Options - Fair Value of Options Granted
+OPTFVGRY,Options - Fair Value of Options Granted
+OPTLIFEQ,Life of Options - Assumption (# yrs)
+OPTLIFEY,Life of Options - Assumption (# yrs)
+OPTRFRQ,Risk Free Rate - Assumption (%)
+OPTRFRY,Risk Free Rate - Assumption (%)
+OPTVOLQ,Volatility - Assumption (%)
+OPTVOLY,Volatility - Assumption (%)
+pdateq,Preliminary Date
+PDVCY,Cash Dividends on Preferred/Preference Stock (Cash Flow)
+phone,phone
+PIQ,Pretax Income
+PIY,Pretax Income
+PLLQ,Provision for Loan/Asset Losses
+PLLY,Provision for Loan/Asset Losses
+PNC12,Pension Core Adjustment - 12mm
+PNCD12,Core Pension Adjustment Diluted EPS Effect 12MM
+PNCDQ,Core Pension Adjustment Diluted EPS Effect
+PNCDY,Core Pension Adjustment Diluted EPS Effect
+PNCEPS12,Core Pension Adjustment Basic EPS Effect 12MM
+PNCEPSQ,Core Pension Adjustment Basic EPS Effect
+PNCEPSY,Core Pension Adjustment Basic EPS Effect
+PNCIAPQ,Core Pension Interest Adjustment After-tax Preliminary
+PNCIAPY,Core Pension Interest Adjustment After-tax Preliminary
+PNCIAQ,Core Pension Interest Adjustment After-tax
+PNCIAY,Core Pension Interest Adjustment After-tax
+PNCIDPQ,Core Pension Interest Adjustment Diluted EPS Effect Preliminary
+PNCIDPY,Core Pension Interest Adjustment Diluted EPS Effect Preliminary
+PNCIDQ,Core Pension Interest Adjustment Diluted EPS Effect
+PNCIDY,Core Pension Interest Adjustment Diluted EPS Effect
+PNCIEPSPQ,Core Pension Interest Adjustment Basic EPS Effect Preliminary
+PNCIEPSPY,Core Pension Interest Adjustment Basic EPS Effect Preliminary
+PNCIEPSQ,Core Pension Interest Adjustment Basic EPS Effect
+PNCIEPSY,Core Pension Interest Adjustment Basic EPS Effect
+PNCIPPQ,Core Pension Interest Adjustment Pretax Preliminary
+PNCIPPY,Core Pension Interest Adjustment Pretax Preliminary
+PNCIPQ,Core Pension Interest Adjustment Pretax
+PNCIPY,Core Pension Interest Adjustment Pretax
+PNCPD12,Core Pension Adjustment 12MM Diluted EPS Effect Preliminary
+PNCPDQ,Core Pension Adjustment Diluted EPS Effect Preliminary
+PNCPDY,Core Pension Adjustment Diluted EPS Effect Preliminary
+PNCPEPS12,Core Pension Adjustment 12MM Basic EPS Effect Preliminary
+PNCPEPSQ,Core Pension Adjustment Basic EPS Effect Preliminary
+PNCPEPSY,Core Pension Adjustment Basic EPS Effect Preliminary
+PNCPQ,Core Pension Adjustment Preliminary
+PNCPY,Core Pension Adjustment Preliminary
+PNCQ,Core Pension Adjustment
+PNCWIAPQ,Core Pension w/o Interest Adjustment After-tax Preliminary
+PNCWIAPY,Core Pension w/o Interest Adjustment After-tax Preliminary
+PNCWIAQ,Core Pension w/o Interest Adjustment After-tax
+PNCWIAY,Core Pension w/o Interest Adjustment After-tax
+PNCWIDPQ,Core Pension w/o Interest Adjustment Diluted EPS Effect Preliminary
+PNCWIDPY,Core Pension w/o Interest Adjustment Diluted EPS Effect Preliminary
+PNCWIDQ,Core Pension w/o Interest Adjustment Diluted EPS Effect
+PNCWIDY,Core Pension w/o Interest Adjustment Diluted EPS Effect
+PNCWIEPQ,Core Pension w/o Interest Adjustment Basic EPS Effect Preliminary
+PNCWIEPSQ,Core Pension w/o Interest Adjustment Basic EPS Effect
+PNCWIEPSY,Core Pension w/o Interest Adjustment Basic EPS Effect
+PNCWIEPY,Core Pension w/o Interest Adjustment Basic EPS Effect Preliminary
+PNCWIPPQ,Core Pension w/o Interest Adjustment Pretax Preliminary
+PNCWIPPY,Core Pension w/o Interest Adjustment Pretax Preliminary
+PNCWIPQ,Core Pension w/o Interest Adjustment Pretax
+PNCWIPY,Core Pension w/o Interest Adjustment Pretax
+PNCY,Core Pension Adjustment
+PNRSHOQ,Nonred Pfd Shares Outs (000) - Quarterly
+popsrc,Population Source
+PPEGTQ,"Property, Plant and Equipment - Total (Gross) - Quarterly"
+PPENTQ,Property Plant and Equipment - Total (Net)
+PRCAQ,Core Post Retirement Adjustment
+PRCAY,Core Post Retirement Adjustment
+PRCCQ,Price Close - Quarter
+PRCD12,Core Post Retirement Adjustment Diluted EPS Effect 12MM
+PRCDQ,Core Post Retirement Adjustment Diluted EPS Effect
+PRCDY,Core Post Retirement Adjustment Diluted EPS Effect
+PRCE12,Core Post Retirement Adjustment 12MM
+PRCEPS12,Core Post Retirement Adjustment Basic EPS Effect 12MM
+PRCEPSQ,Core Post Retirement Adjustment Basic EPS Effect
+PRCEPSY,Core Post Retirement Adjustment Basic EPS Effect
+PRCHQ,Price High - Quarter
+PRCLQ,Price Low - Quarter
+PRCPD12,Core Post Retirement Adjustment 12MM Diluted EPS Effect Preliminary
+PRCPDQ,Core Post Retirement Adjustment Diluted EPS Effect
+PRCPDY,Core Post Retirement Adjustment Diluted EPS Effect Preliminary
+PRCPEPS12,Core Post Retirement Adjustment 12MM Basic EPS Effect Preliminary
+PRCPEPSQ,Core Post Retirement Adjustment Basic EPS Effect Preliminary
+PRCPEPSY,Core Post Retirement Adjustment Basic EPS Effect Preliminary
+PRCPQ,Core Post Retirement Adjustment Preliminary
+PRCPY,Core Post Retirement Adjustment Preliminary
+PRCRAQ,Repurchase Price - Average per share Quarter
+prican,Primary Issue Tag - Canada
+prirow,Primary Issue Tag – rest of world
+priusa,Primary Issue Tag - USA
+PRSHOQ,Redeem Pfd Shares Outs (000)
+PRSTKCCY,Purchase of Common Stock (Cash Flow)
+PRSTKCY,Purchase of Common and Preferred Stock
+PRSTKPCY,Purchase of Preferred/Preference Stock (Cash Flow)
+PSTKNQ,Preferred/Preference Stock - Nonredeemable
+PSTKQ,Preferred/Preference Stock (Capital) - Total
+PSTKRQ,Preferred/Preference Stock - Redeemable
+RCAQ,Restructuring Cost After-tax
+RCAY,Restructuring Cost After-tax
+RCDQ,Restructuring Cost Diluted EPS Effect
+RCDY,Restructuring Cost Diluted EPS Effect
+RCEPSQ,Restructuring Cost Basic EPS Effect
+RCEPSY,Restructuring Cost Basic EPS Effect
+RCPQ,Restructuring Cost Pretax
+RCPY,Restructuring Cost Pretax
+RDIPAQ,In Process R&D Expense After-tax
+RDIPAY,In Process R&D Expense After-tax
+RDIPDQ,In Process R&D Expense Diluted EPS Effect
+RDIPDY,In Process R&D Expense Diluted EPS Effect
+RDIPEPSQ,In Process R&D Expense Basic EPS Effect
+RDIPEPSY,In Process R&D Expense Basic EPS Effect
+RDIPQ,In Process R&D
+RDIPY,In Process R&D
+rdq,Report Date of Quarterly Earnings
+RECCHY,Accounts Receivable - Decrease (Increase)
+RECDQ,Receivables - Estimated Doubtful
+RECTAQ,Accum Other Comp Inc - Cumulative Translation Adjustments
+RECTOQ,Receivables - Current Other incl Tax Refunds
+RECTQ,Receivables - Total
+RECTRQ,Receivables - Trade
+RECUBQ,Unbilled Receivables - Quarterly
+REQ,Retained Earnings
+RETQ,Total RE Property
+REUNAQ,Unadjusted Retained Earnings
+REVTQ,Revenue - Total
+REVTY,Revenue - Total
+RLLQ,Reserve for Loan/Asset Losses
+RP,Reporting Periodicity
+RRA12,Reversal - Restructruring/Acquisition Aftertax 12MM
+RRAQ,Reversal - Restructruring/Acquisition Aftertax
+RRAY,Reversal - Restructruring/Acquisition Aftertax
+RRD12,Reversal - Restructuring/Acq Diluted EPS Effect 12MM
+RRDQ,Reversal - Restructuring/Acq Diluted EPS Effect
+RRDY,Reversal - Restructuring/Acq Diluted EPS Effect
+RREPS12,Reversal - Restructuring/Acq Basic EPS Effect 12MM
+RREPSQ,Reversal - Restructuring/Acq Basic EPS Effect
+RREPSY,Reversal - Restructuring/Acq Basic EPS Effect
+RRPQ,Reversal - Restructruring/Acquisition Pretax
+RRPY,Reversal - Restructruring/Acquisition Pretax
+SALEQ,Sales/Turnover (Net)
+SALEY,Sales/Turnover (Net)
+SCFQ,Cash Flow Model
+SCSTKCY,Sale of Common Stock (Cash Flow)
+SEQOQ,Other Stockholders- Equity Adjustments
+SEQQ,Stockholders Equity > Parent > Index Fundamental > Quarterly
+SETA12,Settlement (Litigation/Insurance) AfterTax - 12mm
+SETAQ,Settlement (Litigation/Insurance) After-tax
+SETAY,Settlement (Litigation/Insurance) After-tax
+SETD12,Settlement (Litigation/Insurance) Diluted EPS Effect 12MM
+SETDQ,Settlement (Litigation/Insurance) Diluted EPS Effect
+SETDY,Settlement (Litigation/Insurance) Diluted EPS Effect
+SETEPS12,Settlement (Litigation/Insurance) Basic EPS Effect 12MM
+SETEPSQ,Settlement (Litigation/Insurance) Basic EPS Effect
+SETEPSY,Settlement (Litigation/Insurance) Basic EPS Effect
+SETPQ,Settlement (Litigation/Insurance) Pretax
+SETPY,Settlement (Litigation/Insurance) Pretax
+sic,SIC code
+SIVY,Sale of Investments
+SPCE12,S&P Core Earnings 12MM
+SPCED12,S&P Core Earnings EPS Diluted 12MM
+SPCEDPQ,S&P Core Earnings EPS Diluted - Preliminary
+SPCEDPY,S&P Core Earnings EPS Diluted - Preliminary
+SPCEDQ,S&P Core Earnings EPS Diluted
+SPCEDY,S&P Core Earnings EPS Diluted
+SPCEEPS12,S&P Core Earnings EPS Basic 12MM
+SPCEEPSP12,S&P Core 12MM EPS - Basic - Preliminary
+SPCEEPSPQ,S&P Core Earnings EPS Basic - Preliminary
+SPCEEPSPY,S&P Core Earnings EPS Basic - Preliminary
+SPCEEPSQ,S&P Core Earnings EPS Basic
+SPCEEPSY,S&P Core Earnings EPS Basic
+SPCEP12,S&P Core Earnings 12MM - Preliminary
+SPCEPD12,S&P Core Earnings 12MM EPS Diluted - Preliminary
+SPCEPQ,S&P Core Earnings - Preliminary
+SPCEPY,S&P Core Earnings - Preliminary
+SPCEQ,S&P Core Earnings
+SPCEY,S&P Core Earnings
+spcindcd,S&P industry sector code - reference
+spcseccd,S&P economic sector code - reference
+spcsrc,S&P Quality Ranking - Current
+SPIDQ,Other Special Items Diluted EPS Effect
+SPIDY,Other Special Items Diluted EPS Effect
+SPIEPSQ,Other Special Items Basic EPS Effect
+SPIEPSY,Other Special Items Basic EPS Effect
+SPIOAQ,Other Special Items After-tax
+SPIOAY,Other Special Items After-tax
+SPIOPQ,Other Special Items Pretax
+SPIOPY,Other Special Items Pretax
+SPIQ,Special Items
+SPIY,Special Items
+SPPEY,Sale of Property
+SPPIVY,Sale of PP&E and Investments - (Gain) Loss
+SPSTKCY,Sale of Preferred/Preference Stock (Cash Flow)
+SRCQ,Source Code
+SRETQ,Gain/Loss on Sale of Property
+SRETY,Gain/Loss on Sale of Property
+SSTKY,Sale of Common and Preferred Stock
+STALTQ,Status Alert
+state,state
+STKCOQ,Stock Compensation Expense
+STKCOY,Stock Compensation Expense
+STKCPAQ,After-tax stock compensation
+STKCPAY,After-tax stock compensation
+stko,Stock Ownership Code
+TDCY,Deferred Income Taxes - Net (Cash Flow)
+TEQQ,Stockholders Equity - Total
+TFVAQ,Total Fair Value Assets
+TFVCEQ,Total Fair Value Changes including Earnings
+TFVCEY,Total Fair Value Changes including Earnings
+TFVLQ,Total Fair Value Liabilities
+tic,Ticker Symbol
+TIEQ,Interest Expense - Total (Financial Services)
+TIEY,Interest Expense - Total (Financial Services)
+TIIQ,Interest Income - Total (Financial Services)
+TIIY,Interest Income - Total (Financial Services)
+TSAFCY,Total Srcs of Funds (FOF)
+TSTKNQ,Treasury Stock - Number of Common Shares
+TSTKQ,Treasury Stock - Total (All Capital)
+TXACHY,Income Taxes - Accrued - Increase (Decrease)
+TXBCOFY,Excess Tax Benefit of Stock Options - Cash Flow Financing
+TXBCOY,Excess Tax Benefit of Stock Options - Cash Flow Operating
+TXDBAQ,Deferred Tax Asset - Long Term
+TXDBCAQ,Current Deferred Tax Asset
+TXDBCLQ,Current Deferred Tax Liability
+TXDBQ,Deferred Taxes - Balance Sheet
+TXDCY,Deferred Taxes (Statement of Cash Flows)
+TXDIQ,Income Taxes - Deferred
+TXDITCQ,Deferred Taxes and Investment Tax Credit
+TXDIY,Income Taxes - Deferred
+TXPDY,Income Taxes Paid
+TXPQ,Income Taxes Payable
+TXTQ,Income Taxes - Total
+TXTY,Income Taxes - Total
+TXWQ,Excise Taxes
+TXWY,Excise Taxes
+UACOQ,Current Assets - Other - Utility
+UAOLOCHY,Other Assets and Liabilities - Net Change (Statement of Cash Flows)
+UAOQ,Other Assets - Utility
+UAPTQ,Accounts Payable - Utility
+UCAPSQ,Paid In Capital - Other - Utility
+UCCONSQ,Contributions In Aid Of Construction
+UCEQQ,Common Equity - Total - Utility
+UDDQ,Debt (Debentures) - Utility
+UDFCCY,Deferred Fuel - Increase (Decrease) (Statement of Cash Flows)
+UDMBQ,Debt (Mortgage Bonds)
+UDOLTQ,Debt (Other Long-Term)
+UDPCOQ,Debt (Pollution Control Obligations)
+UDVPQ,Preferred Dividend Requirements
+UDVPY,Preferred Dividend Requirements - Utility
+UFRETSDY,Tot Funds Ret ofSec&STD (FOF)
+UGIQ,Gross Income (Income Before Interest Charges)
+UGIY,Gross Income (Income Before Interest Charges) - Utility
+UINVQ,Inventories
+ULCOQ,Current Liabilities - Other
+UNIAMIQ,Net Income before Extraordinary Items After Noncontrolling Interest
+UNIAMIY,Net Income before Extraordinary Items After Noncontrolling Interest - Utility
+UNOPINCQ,Nonoperating Income (Net) - Other
+UNOPINCY,Nonoperating Income (Net) - Other - Utility
+UNWCCY,Inc(Dec)Working Cap (FOF)
+UOISY,Other Internal Sources - Net (Cash Flow)
+UOPIQ,Operating Income - Total - Utility
+UPDQ,Update Code
+UPDVPQ,Preference Dividend Requirements - Utility
+UPDVPY,Preference Dividend Requirements - Utility
+UPMCSTKQ,Premium On Common Stock - Utility
+UPMPFQ,Premium On Preferred Stock - Utility
+UPMPFSQ,Premium On Preference Stock - Utility
+UPMSUBPQ,Premium On Subsidiary Preferred Stock - Utility
+UPSTKCQ,Preference Stock At Carrying Value - Utility
+UPSTKQ,Preferred Stock At Carrying Value - Utility
+UPTACY,Utility Plant - Gross Additions (Cash Flow)
+URECTQ,Receivables (Net) - Utility
+USPIQ,Special Items - Utility
+USPIY,Special Items - Utility
+USTDNCY,Net Decr in ST Debt (FOF)
+USUBDVPQ,Subsidiary Preferred Dividends - Utility
+USUBDVPY,Subsidiary Preferred Dividends - Utility
+USUBPCVQ,Subsidiary Preferred Stock At Carrying Value - Utility
+UTEMQ,Maintenance Expense - Total
+UTFDOCY,Total Funds From Ops (FOF)
+UTFOSCY,Tot Funds Frm Outside Sources (FOF)
+UTMEY,Maintenance Expense - Total
+UWKCAPCY,Dec(Inc) in Working Capital (FOF)
+WCAPCHY,Working Capital Changes - Total
+WCAPCY,Working Capital Change - Other - Increase/(Decrease)
+WCAPQ,Working Capital (Balance Sheet)
+WDAQ,Writedowns After-tax
+WDAY,Writedowns After-tax
+WDDQ,Writedowns Diluted EPS Effect
+WDDY,Writedowns Diluted EPS Effect
+WDEPSQ,Writedowns Basic EPS Effect
+WDEPSY,Writedowns Basic EPS Effect
+WDPQ,Writedowns Pretax
+WDPY,Writedowns Pretax
+weburl,web
+XACCQ,Accrued Expenses
+XIDOCY,Extraordinary Items and Discontinued Operations (Statement of Cash Flows)
+XIDOQ,Extraordinary Items and Discontinued Operations
+XIDOY,Extraordinary Items and Discontinued Operations
+XINTQ,Interest and Related Expense- Total
+XINTY,Interest and Related Expense- Total
+XIQ,Extraordinary Items
+XIY,Extraordinary Items
+XOPRQ,Operating Expense- Total
+XOPRY,Operating Expense- Total
+XOPT12,Implied Option Expense - 12mm
+XOPTD12,Implied Option EPS Diluted 12MM
+XOPTD12P,Implied Option 12MM EPS Diluted Preliminary
+XOPTDQ,Implied Option EPS Diluted
+XOPTDQP,Implied Option EPS Diluted Preliminary
+XOPTDQPY,Implied Option EPS Diluted Preliminary
+XOPTDY,Implied Option EPS Diluted
+XOPTEPS12,Implied Option EPS Basic 12MM
+XOPTEPSP12,Implied Option 12MM EPS Basic Preliminary
+XOPTEPSQ,Implied Option EPS Basic
+XOPTEPSQP,Implied Option EPS Basic Preliminary
+XOPTEPSQPY,Implied Option EPS Basic Preliminary
+XOPTEPSY,Implied Option EPS Basic
+XOPTQ,Implied Option Expense
+XOPTQP,Implied Option Expense Preliminary
+XOPTQPY,Implied Option Expense Preliminary
+XOPTY,Implied Option Expense
+XRDQ,Research and Development Expense
+XRDY,Research and Development Expense
+XSGAQ,"Selling, General and Administrative Expenses"
+XSGAY,"Selling, General and Administrative Expenses"
